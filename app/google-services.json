@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "68454377137",
+    "firebase_url": "https://bidding-8a681-default-rtdb.firebaseio.com",
+    "project_id": "bidding-8a681",
+    "storage_bucket": "bidding-8a681.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68454377137:android:29fc136e3931b54b1b2490",
+        "android_client_info": {
+          "package_name": "com.example.startupatx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68454377137-q2hqmvpkfitkk8u9ktmkj78mmqvadvur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyfZ1I1G0YCtNqrX1XE_B5SOBmWv7bIvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68454377137-q2hqmvpkfitkk8u9ktmkj78mmqvadvur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68454377137:android:fdb414795876fe1b1b2490",
+        "android_client_info": {
+          "package_name": "com.example.strartupatx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68454377137-q2hqmvpkfitkk8u9ktmkj78mmqvadvur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyfZ1I1G0YCtNqrX1XE_B5SOBmWv7bIvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68454377137-q2hqmvpkfitkk8u9ktmkj78mmqvadvur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68454377137:android:70fcb8d3d1dfcee31b2490",
+        "android_client_info": {
+          "package_name": "in.macrocodes.onlineauctionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68454377137-sr0448ius4innceq9rm5g4jm956dv1vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.macrocodes.onlineauctionapp",
+            "certificate_hash": "72e38cc3ab1c4cc4d6790d0b580557b02e0c41e6"
+          }
+        },
+        {
+          "client_id": "68454377137-q2hqmvpkfitkk8u9ktmkj78mmqvadvur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyfZ1I1G0YCtNqrX1XE_B5SOBmWv7bIvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68454377137-q2hqmvpkfitkk8u9ktmkj78mmqvadvur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
